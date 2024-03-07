@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b774969d-6262-4cef-85ed-5f000dee8f34" name="Changes" comment="primeiro commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2bc76c79-dbd0-43fe-8c38-a1b2350b3903" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2dKUe91I6VlZcO8ktyycYU0w6bA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2dMHqZcYwJhFvsLpkvn3qynnRMm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,54 +22,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DesafioDioPooApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="desafio-dio-poo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="esafiodiopoo.desafiodiopoo.DesafioDioPooApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b774969d-6262-4cef-85ed-5f000dee8f34" name="Changes" comment="" />
-      <created>1709756356216</created>
+      <changelist id="2bc76c79-dbd0-43fe-8c38-a1b2350b3903" name="Changes" comment="" />
+      <created>1709811220562</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709756356216</updated>
-      <workItem from="1709756357569" duration="941000" />
+      <updated>1709811220562</updated>
     </task>
-    <task id="LOCAL-00001" summary="primeiro commit">
-      <created>1709756852426</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1709756852426</updated>
-    </task>
-    <task id="LOCAL-00002" summary="primeiro commit">
-      <created>1709757125108</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1709757125108</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="primeiro commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primeiro commit" />
   </component>
 </project>
