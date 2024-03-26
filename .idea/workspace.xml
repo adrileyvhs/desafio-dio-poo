@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bc76c79-dbd0-43fe-8c38-a1b2350b3903" name="Changes" comment="Novo projeto com spring">
-      <change afterPath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/entitites/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/entitites/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/entitites/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/testes/dio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio-dio-poo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desafio-dio-poo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/entitites/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/entitites/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2dMHqZcYwJhFvsLpkvn3qynnRMm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,15 +57,29 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MainCursos">
+  <component name="RunManager" selected="Application.dio">
     <configuration name="MainCursos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esafiodiopoo.desafiodiopoo.MainCursos" />
       <module name="desafio-dio-poo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esafiodiopoo.desafiodiopoo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esafiodiopoo.desafiodiopoo.testes.dio" />
+      <module name="desafio-dio-poo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esafiodiopoo.desafiodiopoo.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dio" />
         <item itemvalue="Application.MainCursos" />
       </list>
     </recent_temporary>
@@ -91,7 +111,10 @@
       <updated>1709811220562</updated>
       <workItem from="1709811222128" duration="2747000" />
       <workItem from="1709997249038" duration="1621000" />
-      <workItem from="1710244956608" duration="2533000" />
+      <workItem from="1710244956608" duration="3296000" />
+      <workItem from="1710778937333" duration="3823000" />
+      <workItem from="1711381298665" duration="2514000" />
+      <workItem from="1711384924616" duration="10464000" />
     </task>
     <task id="LOCAL-00001" summary="Novo projeto com spring">
       <created>1709811297655</created>
@@ -120,5 +143,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Novo projeto com spring" />
     <option name="LAST_COMMIT_MESSAGE" value="Novo projeto com spring" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/esafiodiopoo/desafiodiopoo/testes/dio.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/desafio_dio_poo$dio.ic" NAME="dio Coverage Results" MODIFIED="1711399223405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>esafiodiopoo.desafiodiopoo.testes.*</FILTER>
+    </SUITE>
   </component>
 </project>
